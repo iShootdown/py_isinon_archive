@@ -1,0 +1,1 @@
+python: python3 isinon.py
